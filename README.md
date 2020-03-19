@@ -1,0 +1,2 @@
+# GGGIFCompressUtil
+GIF Compress Util
